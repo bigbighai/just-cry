@@ -15,8 +15,11 @@ p{
 div{
 	width: 100px;
 	height: 100px;
+h1{
 	background-color: #fff;
 }
-h1{
 	width: 100px;
+}
+h2{
+	height: 100px;
 }
